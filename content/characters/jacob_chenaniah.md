@@ -5,7 +5,7 @@ draft: false
 ---
 <center>
 
-![jacob_chenaniah_blog.png](img/jacob_chenaniah_blog.png)
+![jacob_chenaniah_blog.png](/img/jacob_chenaniah_blog.png)
 
 
 # Jacob Chenaniah, Neophyte Assassin 
