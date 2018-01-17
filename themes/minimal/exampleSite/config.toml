@@ -60,3 +60,8 @@ googleAnalytics = ""
     url = "https://www.stackoverflow.com/username/"
     name = "stack-overflow"
     weight = 5
+
+[[menud.icon]]
+    url = "https://www.twitch.tv/sosaria_unbound/"
+    name = "twitch"
+    weight = 6

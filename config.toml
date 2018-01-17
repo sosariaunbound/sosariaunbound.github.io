@@ -37,16 +37,16 @@ theme = "minimal"
 
 [[menu.icon]]
     url = "mailto:sosariaunbound@gmail.com"
-    name = "envelope-o"
+    name = "google"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/sosaria-unbound/"
+    url = "https://github.com/sosariaunbound/"
     name = "github"
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/sosaria_unbound/"
+    url = "https://twitter.com/sosariaunbound/"
     name = "twitter"
     weight = 3
 
@@ -54,3 +54,8 @@ theme = "minimal"
     url = "https://app.roll20.net/lfg/listing/64532/sosaria-unbound"
     name = "rebel"
     weight = 4
+
+[[menu.icon]]
+    url = "https://www.twitch.tv/sosaria_unbound/"
+    name = "twitch"
+    weight = 5
