@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sosaria Unbound</title>
+    <link>https://sosariaunbound.github.io/</link>
+    <description>Recent content on Sosaria Unbound</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sosariaunbound.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jacob Chenaniah</title>
+      <link>https://sosariaunbound.github.io/characters/jacob_chenaniah/</link>
+      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sosariaunbound.github.io/characters/jacob_chenaniah/</guid>
+      <description>Jacob Chenaniah, Neophyte Assassin 
+Jacob Chenaniah was born into an impoverished family on the edge of Minoc in the year 693 of the last sighting of his majesty Lord British. Being that Minoc is a mining town, the young Jacob felt stifled by the rigamarole of daily life in the simplest form as he carried iron and other ores to and from the mines to the forges. When he was enrolled into the rudimentary school system he immediately excelled, and was found to have a particular affinity with the alchemical school.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Sosaria Unbound</title>
+      <link>https://sosariaunbound.github.io/campaign/introduction/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sosariaunbound.github.io/campaign/introduction/</guid>
+      <description>Introduction It&amp;rsquo;s been over 700 years since The Avatar, shielded by the Barrier of LIght, cast the Armageddon spell and fused with The Guardian and neutralized the evil power that had corrupted the land. Lord British, seeing the land of Sosaria was on the mend has left the lands on a temporal jaunt across space-time to allow the lands ot heal.
+After the great cataclysm, Britannia is now whole again and the people ahve been rebuilding for some time.</description>
+    </item>
+    
+  </channel>
+</rss>

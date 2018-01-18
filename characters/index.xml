@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Characters on Sosaria Unbound</title>
+    <link>https://sosariaunbound.github.io/characters/</link>
+    <description>Recent content in Characters on Sosaria Unbound</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sosariaunbound.github.io/characters/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Jacob Chenaniah</title>
+      <link>https://sosariaunbound.github.io/characters/jacob_chenaniah/</link>
+      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sosariaunbound.github.io/characters/jacob_chenaniah/</guid>
+      <description>Jacob Chenaniah, Neophyte Assassin 
+Jacob Chenaniah was born into an impoverished family on the edge of Minoc in the year 693 of the last sighting of his majesty Lord British. Being that Minoc is a mining town, the young Jacob felt stifled by the rigamarole of daily life in the simplest form as he carried iron and other ores to and from the mines to the forges. When he was enrolled into the rudimentary school system he immediately excelled, and was found to have a particular affinity with the alchemical school.</description>
+    </item>
+    
+  </channel>
+</rss>
